@@ -30,5 +30,5 @@ I used scikit-learn library to try and test different classification models usin
 
 ### Deep Learning
 
-I will be using TensorFlow Recurrent Neural Network LSTM model for snetiment analysis. Check out the code at which I built for doing log analytics using the same model.
+I will be using TensorFlow Recurrent Neural Network LSTM model for snetiment analysis. Check out the prototype code which I built for doing log analytics using the same model - https://github.com/shrutisaxena0617/AWS_Spark_ETL_Log_Analysis/blob/master/prototype_deep_learning_RNN_LSTM.ipynb
 
