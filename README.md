@@ -1,4 +1,4 @@
-# Yelp_Sentiment_Analysis_and_Restaurant_Classification
+# Yelp Restaurants Classification and Sentiment Analysis
 
 Using traditional machine learning and deep learning to perform sentiment analysis on customer reviews and classify restaurants into "Awesome", "Average" or "Not really!" category.
 
